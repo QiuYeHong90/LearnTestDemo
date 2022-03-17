@@ -1,0 +1,6 @@
+framework module SHCoreKit {
+  umbrella header "SHCoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

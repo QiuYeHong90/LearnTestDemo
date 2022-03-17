@@ -1,0 +1,22 @@
+{
+  "name": "SHCoreKit",
+  "version": "0.1.0",
+  "summary": "A short description of SHCoreKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ray/SHCoreKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ray": "ray@kumu.ph"
+  },
+  "source": {
+    "git": "https://github.com/Ray/SHCoreKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SHCoreKit/Classes/**/*"
+}
